@@ -31,6 +31,11 @@ h2 + p + a
     display: block;
 }
 
+h3
+{
+    text-align: center;
+    p.double {outline-style: double;}
+}
 img
 {
     display: block;
