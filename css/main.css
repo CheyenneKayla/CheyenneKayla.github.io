@@ -12,6 +12,16 @@ h1
     text-align: center;
 }
 
+h2
+{
+    text-align: center;
+}
+
+section
+{
+    text-align: center;
+}
+
 img
 {
     display: block;
