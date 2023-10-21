@@ -21,6 +21,7 @@ img
 
 .footertext
 {
+    display: block;
     margin-top: 200px;
     text-align: center;
 }
