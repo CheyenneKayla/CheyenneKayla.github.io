@@ -83,7 +83,8 @@ p
 h3
 {
     text-align: center;
-    p.double {outline-style: double;}
+    color:blueviolet;
+    p.double {outline-style: double;};
 }
 img
 {
