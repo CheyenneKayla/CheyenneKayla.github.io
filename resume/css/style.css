@@ -13,6 +13,15 @@ nav
 {
     color:gold;
 }
+nav li
+{
+    display:inline;
+}
+nav ul
+{
+    text-align: center;
+
+}
 h1
 {
     font-size: 48px;
