@@ -44,6 +44,10 @@ h1
     font-size: 20pt;
     
 }
+.major
+{
+    font-style: italic;
+}
 .entry 
 {
     background-color:forestgreen;
