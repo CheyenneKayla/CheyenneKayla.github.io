@@ -7,12 +7,13 @@
     
 
     background-color: var(--prettypurple);
+    color:cornflowerblue;
 }
 h1
 {
     font-size: 48px;
     text-align: center;
-    color:cornflowerblue;
+    color:darkblue;
 }
 
 h2
