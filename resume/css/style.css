@@ -27,7 +27,7 @@ nav ul
 }
 h1
 {
-    font-size: 48px;
+    font-size: 48pt;
     text-align: center;
     color:darkblue;
 }
@@ -50,6 +50,7 @@ h2
     text-align: center;
     text-shadow: 3px 3px 6px white;
     color:blueviolet;
+    font-size: 36pt;
 }
 
 h2 + p
