@@ -59,8 +59,7 @@ h1
 h2
 {
     text-align: center;
-    text-shadow: 3px 3px 6px white;
-    color:blueviolet;
+    text-shadow: 3px 3px 6px cyan;
     font-size: 36pt;
     margin-top: 5px;
 }
@@ -92,7 +91,8 @@ img
     margin-left: auto;
     margin-right: auto;
     height: 300px;
-    border-radius: 30%;
+    border-radius: 35%;
+    border-color: azure;
 }
 
 ul li
