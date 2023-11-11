@@ -12,6 +12,7 @@
 nav
 {
     color:gold;
+    border: 5px solid goldenrod;
 }
 nav li
 {
