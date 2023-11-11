@@ -9,6 +9,10 @@
     background-color: var(--prettypurple);
     color:cornflowerblue;
 }
+nav
+{
+    color:gold;
+}
 h1
 {
     font-size: 48px;
