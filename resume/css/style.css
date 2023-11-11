@@ -62,6 +62,7 @@ h2
     text-shadow: 3px 3px 6px white;
     color:blueviolet;
     font-size: 36pt;
+    margin-top: 5px;
 }
 
 h2 + p
