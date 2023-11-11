@@ -41,7 +41,8 @@ h1
 {
     background-color:forestgreen;
     color:beige;
-    border: 5px solid goldenrod
+    border: 5px solid goldenrod;
+    margin-top: 50px;
 }   
 
 h2
