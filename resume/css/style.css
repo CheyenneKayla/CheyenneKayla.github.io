@@ -37,7 +37,10 @@ h1
     font-weight: bold;
     font-size: 24pt;
 }
-
+.entry 
+{
+background-color:forestgreen;
+}
 
 h2
 {
