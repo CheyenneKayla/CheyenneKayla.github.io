@@ -39,8 +39,9 @@ h1
 }
 .entry 
 {
-background-color:forestgreen;
-}
+    background-color:forestgreen;
+    color:beige;
+}   
 
 h2
 {
